@@ -18,7 +18,7 @@ Web Interface: Built with Streamlit for user-friendly interaction.
 # Tech Stack
 Language: Python
 Libraries:
-pandas (Data manipulation)
+#pandas (Data manipulation)
 scikit-learn (Machine learning)
 Streamlit (Web app interface)
 joblib (Model serialization)
